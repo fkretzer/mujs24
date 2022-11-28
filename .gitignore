@@ -1,0 +1,6 @@
+.hugo_build.lock
+.DS_Store
+hugoContent/public/
+/node_modules/
+/html/
+/.idea/
