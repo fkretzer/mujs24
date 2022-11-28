@@ -1,0 +1,5 @@
+.hugo_build.lock
+hugoContent/public/
+/node_modules/
+/html/
+/.idea/
