@@ -1,1 +1,1 @@
-dagger run tsx ./build.ts
+dagger run ./gradlew run

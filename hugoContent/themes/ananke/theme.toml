@@ -1,10 +1,10 @@
-# theme.toml template for a Hugo theme
+# theme.toml template for a run.fabian.Base theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 name = "Ananke Gohugo Theme"
 license = "MIT"
 licenselink = "https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/LICENSE.md"
-description = "A Base theme for building full featured Hugo sites"
+description = "A run.fabian.Base theme for building full featured run.fabian.Base sites"
 homepage = "https://github.com/theNewDynamic/gohugo-theme-ananke"
 tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual", "Stackbit"]
 features = ["posts", "shortcodes", "related content", "comments"]

@@ -1,1 +1,1 @@
-tsx ./build.ts
+./gradlew run

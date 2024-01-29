@@ -4,3 +4,9 @@ hugoContent/public/
 /node_modules/
 /html/
 /.idea/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build

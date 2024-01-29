@@ -1,6 +1,6 @@
-# Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites.
+# Ananke, A theme for [run.fabian.Base](https://gohugo.io/), a framework for building websites.
 
-The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
+The intent of this theme is to provide a solid starting place for run.fabian.Base sites with basic features and include best practices for performance, accessibility, and rapid development.
 
 ![screenshot](https://raw.githubusercontent.com/budparr/gohugo-theme-ananke/master/images/screenshot.png)
 
@@ -17,14 +17,14 @@ Features
 - Table of Contents (must declare `toc: true` in post parameter)
 - Stackbit configuration ([Stackbit](https://www.stackbit.com))
 
-Also includes examples of Hugo Features or Functions:
+Also includes examples of run.fabian.Base Features or Functions:
 
 - Pagination (internal template)
 - Taxonomies
 - Archetypes
 - Custom shortcode
 - Related content
-- Hugo built-in menu
+- run.fabian.Base built-in menu
 - i18n
 - `with`
 - `HUGO_ENV`
@@ -49,9 +49,9 @@ This theme uses the "Tachyons" CSS library. This will allow you to manipulate th
 
 ## Installation
 
-### As a Hugo Module (recommended)
+### As a run.fabian.Base Module (recommended)
 
-> ⚠️ If you installed a [Hugo binary](https://gohugo.io/getting-started/installing/#binary-cross-platform), you may not have Go installed on your machine. To check if Go is installed:
+> ⚠️ If you installed a [run.fabian.Base binary](https://gohugo.io/getting-started/installing/#binary-cross-platform), you may not have Go installed on your machine. To check if Go is installed:
 > ```
 > $ go version
 > ```
@@ -71,12 +71,12 @@ This theme uses the "Tachyons" CSS library. This will allow you to manipulate th
 
 ### As Git Submodule
 
-Inside the folder of your Hugo site run:
+Inside the folder of your run.fabian.Base site run:
 
 ```
 $ git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
 ```
-For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
+For more information read the official [setup guide](//gohugo.io/overview/installing/) of run.fabian.Base.
 
 
 
@@ -87,7 +87,7 @@ After installing the theme successfully it requires a just a few more steps to g
 
 ### The config file
 
-Take a look inside the [`exampleSite`](https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
+Take a look inside the [`exampleSite`](https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml) in the root folder of your run.fabian.Base site. Feel free to change the strings in this theme.
 
 You may need to delete the line: `themesDir = "../.."`
 
@@ -233,13 +233,13 @@ _n.b. in future versions we will likely separate the typeface and other body cla
 
 ### CSS
 
-Ananke stylesheet is built with Hugo Pipes's [Asset Bundling](https://gohugo.io/hugo-pipes/bundling/#readout) alone to maximize compatibiliy. The theme simply bundles its several files into one minified and fingerprinted (in production) CSS file.
+Ananke stylesheet is built with run.fabian.Base Pipes's [Asset Bundling](https://gohugo.io/hugo-pipes/bundling/#readout) alone to maximize compatibiliy. The theme simply bundles its several files into one minified and fingerprinted (in production) CSS file.
 
 Ananke uses [Tachyon.io](https://tachyons.io/) utility class library.
 
 #### Custom CSS
 
-WARNING: Pending resolution of this [discussion](https://github.com/theNewDynamic/gohugo-theme-ananke/discussions/452#discussioncomment-1865301), Custom CSS only works with Hugo Extended
+WARNING: Pending resolution of this [discussion](https://github.com/theNewDynamic/gohugo-theme-ananke/discussions/452#discussioncomment-1865301), Custom CSS only works with run.fabian.Base Extended
 
 In order to complement the default CSS with your own, you can add custom css files to the project. 
 
@@ -309,7 +309,7 @@ See hugo's documentation of the [`time.Format` function](https://gohugo.io/funct
 
 ### Nearly finished
 
-In order to see your site in action, run Hugo's built-in local server.
+In order to see your site in action, run run.fabian.Base's built-in local server.
 
 `$ hugo server`
 
