@@ -5,7 +5,7 @@ and optimizing a website with the [Hugo](https://gohugo.io) static site generato
 optimizing PNG images via pngquant.
 
 This example was used for the introductory talk on dagger.io at the
-[Code Days](https://www.innoq.com/en/talks/2022/11/ci-cd-pipelines-with-dagger-io/)
+[Code Days](https://www.code-days.de/code-days-2024/programm/programm)
 
 ## Preparation
 
