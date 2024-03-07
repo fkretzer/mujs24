@@ -35,6 +35,7 @@ class HugoDaggerModule {
 
 
         const pngQuantImages = dag.pngquantDaggerModule().getPngQuantImages(hugoImageDir);
+        //const pngQuantImages = hugoImageDir;
 
 
         return dag.pipeline("hugo")
