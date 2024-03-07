@@ -1,0 +1,12 @@
+{
+  "name": "hugo_dagger_module",
+  "sdk": "typescript",
+  "dependencies": [
+    {
+      "name": "pngquant_dagger_module",
+      "source": "../pngquant_dagger_module"
+    }
+  ],
+  "source": "dagger",
+  "engineVersion": "v0.10.0"
+}
