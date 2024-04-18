@@ -5,7 +5,7 @@ and optimizing a website with the [Hugo](https://gohugo.io) static site generato
 optimizing PNG images via pngquant.
 
 This example was used for the introductory talk on dagger.io at the
-[DecompileD 2024](https://decompiled.de/schedule)
+[MunichJS Meetup 04/2024](https://www.meetup.com/munichjs-user-group/events/299867927/)
 
 ## Preparation
 
