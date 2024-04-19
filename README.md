@@ -12,7 +12,7 @@ This example was used for the introductory talk on dagger.io at the
 - Clone this repository
 - Install a docker compatible engine (I successfully used
   [Rancher Desktop](https://rancherdesktop.io/))
-- Install the the dagger-cl
+- [Install the dagger-cli](https://docs.dagger.io/quickstart/729237/cli)
 - see ./runWithCli.sh
 
 
